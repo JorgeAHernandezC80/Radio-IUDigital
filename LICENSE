@@ -1,14 +1,56 @@
+================================================================================
+                    RADIO IU DIGITAL — LICENSE / LICENCIA
+================================================================================
+
+This file contains the same license in two languages: English first, then
+Spanish. Both versions have the same meaning.
+
+Este archivo contiene la misma licencia en dos idiomas: primero en inglés y
+después en español. Ambas versiones tienen el mismo significado.
+
+================================================================================
+                                 ENGLISH
+================================================================================
+
 Copyright (c) 2026 Jorge A. Hernandez
 All Rights Reserved.
 
-This software and associated documentation files (the "Software") are the
-proprietary property of Jorge A. Hernandez. No part of the Software may be
-copied, modified, merged, published, distributed, sublicensed, and/or sold,
-in whole or in part, without the prior written permission of the copyright
-holder.
+1. OWNERSHIP
+
+This software, including its source code, user interface design, graphics
+created for it, and associated documentation files (together, the
+"Software"), is the exclusive property of Jorge A. Hernandez (the "Author").
+
+2. RESTRICTIONS
+
+No part of the Software may be copied, modified, merged, published,
+distributed, sublicensed, and/or sold, in whole or in part, by any means,
+without the prior written permission of the Author.
 
 Unauthorized copying, distribution, or use of this Software, via any medium,
 is strictly prohibited.
+
+3. ACADEMIC EXCEPTION
+
+The Software was developed for the course "Programacion de Dispositivos
+Moviles" at IU Digital de Antioquia. Instructors and evaluators of that
+institution may download, compile, run, and review the Software solely for
+the purpose of academic evaluation. This exception does not grant any right
+to redistribute, publish, or reuse the Software in other works.
+
+4. THIRD-PARTY COMPONENTS
+
+The Software uses third-party libraries, including Jetpack Compose, AndroidX,
+and Media3 ExoPlayer, which are distributed by their authors under their own
+licenses (Apache License 2.0). Those licenses apply to those components and
+are not modified by this license.
+
+The radio streams played by the Software, as well as station names, logos,
+and trademarks, belong to their respective owners. The Software only plays
+them from their publicly available addresses and claims no ownership over
+them.
+
+5. DISCLAIMER OF WARRANTY
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -17,19 +59,56 @@ AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
 ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
----
+6. CONTACT
+
+To request permission for any use not covered by this license, contact the
+Author through GitHub: https://github.com/JorgeAHernandezC80
+
+================================================================================
+                                 ESPAÑOL
+================================================================================
 
 Copyright (c) 2026 Jorge A. Hernandez
 Todos los derechos reservados.
 
-Este software y su documentación asociada (en adelante, el "Software") son
-propiedad exclusiva de Jorge A. Hernandez. Ninguna parte del Software puede
-ser copiada, modificada, fusionada, publicada, distribuida, sublicenciada
-y/o vendida, total o parcialmente, sin el permiso previo y por escrito del
-titular de los derechos de autor.
+1. PROPIEDAD
+
+Este software, incluido su código fuente, el diseño de su interfaz de
+usuario, los gráficos creados para él y su documentación asociada (en
+conjunto, el "Software"), es propiedad exclusiva de Jorge A. Hernandez (el
+"Autor").
+
+2. RESTRICCIONES
+
+Ninguna parte del Software puede ser copiada, modificada, fusionada,
+publicada, distribuida, sublicenciada y/o vendida, total o parcialmente, por
+ningún medio, sin el permiso previo y por escrito del Autor.
 
 Queda estrictamente prohibida la copia, distribución o uso no autorizado de
 este Software, por cualquier medio.
+
+3. EXCEPCIÓN ACADÉMICA
+
+El Software fue desarrollado para el curso "Programación de Dispositivos
+Móviles" de la IU Digital de Antioquia. Los docentes y evaluadores de esa
+institución pueden descargar, compilar, ejecutar y revisar el Software
+únicamente con fines de evaluación académica. Esta excepción no otorga
+ningún derecho a redistribuir, publicar ni reutilizar el Software en otras
+obras.
+
+4. COMPONENTES DE TERCEROS
+
+El Software utiliza librerías de terceros, entre ellas Jetpack Compose,
+AndroidX y Media3 ExoPlayer, que sus autores distribuyen bajo sus propias
+licencias (Licencia Apache 2.0). Esas licencias se aplican a dichos
+componentes y esta licencia no las modifica.
+
+Los streams de radio que reproduce el Software, así como los nombres,
+logotipos y marcas de las emisoras, pertenecen a sus respectivos dueños. El
+Software solo los reproduce desde sus direcciones públicas y no reclama
+ninguna propiedad sobre ellos.
+
+5. EXENCIÓN DE GARANTÍA
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, YA SEA
 EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE
@@ -38,3 +117,8 @@ NINGÚN CASO EL AUTOR SERÁ RESPONSABLE DE NINGÚN RECLAMO, DAÑO U OTRA
 RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, EXTRACONTRACTUAL O DE
 CUALQUIER OTRO TIPO, QUE SURJA DE, O EN CONEXIÓN CON, EL SOFTWARE O EL USO U
 OTRO TIPO DE ACTOS EN EL SOFTWARE.
+
+6. CONTACTO
+
+Para solicitar permiso para cualquier uso no cubierto por esta licencia,
+contacte al Autor a través de GitHub: https://github.com/JorgeAHernandezC80
