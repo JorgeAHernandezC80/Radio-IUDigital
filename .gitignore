@@ -1,0 +1,27 @@
+# Compilación de Gradle (en cualquier carpeta: raíz, app, etc.)
+build/
+.gradle/
+.kotlin/
+
+# Archivos locales de la máquina (ruta del SDK, claves)
+local.properties
+*.keystore
+*.jks
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+.navigation/
+
+# APK y paquetes generados
+*.apk
+*.aab
+output-metadata.json
+
+# Registros y sistema operativo
+*.log
+.DS_Store
+Thumbs.db
